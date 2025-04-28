@@ -1,0 +1,3 @@
+# Use typed characters as prefix when searching.
+"\e[A": history-search-backward
+"\e[B": history-search-forward
